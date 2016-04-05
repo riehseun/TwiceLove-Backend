@@ -1,3 +1,0 @@
-# TwiceLove-Backend
-
-CodeInginer + MySQL 
